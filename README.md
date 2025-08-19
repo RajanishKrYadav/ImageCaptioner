@@ -12,9 +12,8 @@ A Jupyter notebook showcasing an image captioning pipeline—loading images, ext
 4. [Installation](#installation)  
 5. [Project Structure](#project-structure)  
 6. [Usage](#usage)  
-7. [Results](#results)  
-8. [Contributing](#contributing)  
-9. [Contact](#contact)  
+7. [Contributing](#contributing)  
+8. [Contact](#contact)  
 
 ---
 
