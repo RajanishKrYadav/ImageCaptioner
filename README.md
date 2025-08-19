@@ -88,12 +88,9 @@ tqdm
 ## Project Structure
 
 ```
-ImageCaptioner/
-├── ImageCaptioning_fixed.ipynb   # Core notebook with full pipeline
-├── datasets/                     # Folder for raw or processed data
-├── models/                       # (Optional) Saved model weights or configs
-├── requirements.txt              # List of Python dependencies
-└── README.md                     # This file
+├── ImageCaptioning.ipynb
+├── ImageCaptioning_fixed.ipynb
+└── README.md
 ```
 
 ---
