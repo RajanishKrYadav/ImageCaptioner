@@ -119,17 +119,6 @@ tqdm
 
 ---
 
-## Results
-
-Sample outputs:
-
-| Image            | Generated Caption                |
-|------------------|----------------------------------|
-| *(thumbnail)*     | *"A dog jumping through a hoop."* |
-| *(another image)* | *"A scenic mountain view at sunset."* |
-
----
-
 ## Contributing
 
 Contributions are welcome!  
